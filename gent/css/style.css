@@ -1,0 +1,174 @@
+.mainNav {
+  font-family: "AvantGarde Bold", Sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: -0.4px; }
+
+.mainMenu {
+  margin-left: auto;
+  margin-right: auto;
+  background: black !important;
+  padding: 10px;
+  height: 120px; }
+  .mainMenu h2 {
+    font-size: 2.14em !important; }
+  .mainMenu a {
+    color: white !important; }
+  .mainMenu li {
+    font-size: 20px; }
+
+.entranceText {
+  padding: 120px 0px; }
+  .entranceText h2 {
+    font-size: 78px;
+    font-weight: 800;
+    line-height: 80px;
+    letter-spacing: -1.9px;
+    margin-bottom: 2.5rem; }
+
+#Entrance {
+  background-image: url("http://gentium.pixerex.com/wp/wp-content/uploads/2019/01/hero_02.jpg");
+  background-color: black;
+  color: white;
+  background-size: 640px;
+  background-repeat: no-repeat;
+  background-position: 70% 48%; }
+  #Entrance .btndg {
+    border-style: solid;
+    color: white;
+    border-color: #e9204f;
+    padding: 20px 40px;
+    font-size: 16px; }
+
+.digital-item {
+  background: #747474;
+  padding: 70px 40px;
+  max-height: 331px; }
+  .digital-item:hover {
+    background-color: #e9204f;
+    transition: all 0.5s ease; }
+
+.active {
+  background: #e9204f; }
+
+#Services {
+  padding-top: 140px;
+  padding-bottom: 60px; }
+  #Services .services-item {
+    position: relative;
+    padding: 30px 30px;
+    background-color: #f3f3f3;
+    margin-bottom: 15px;
+    color: #101010;
+    font-family: "AvantGarde Bold", Sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 24px; }
+    #Services .services-item i {
+      position: absolute;
+      top: 35px;
+      right: 40px;
+      color: #999; }
+
+.info {
+  margin-bottom: 60px; }
+  .info h2 {
+    position: relative;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px; }
+    .info h2::before {
+      content: '';
+      position: absolute;
+      width: 50px;
+      height: 2px;
+      background: #e9204f;
+      top: -10px; }
+  .info h4 {
+    font-family: "Trade Gothic", Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 17px;
+    color: #e9204f; }
+
+.outLine {
+  height: 60px;
+  width: 2px;
+  background: #e9204f;
+  margin: auto; }
+
+.btnRight {
+  font-family: "Poppins", Sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 16px;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #e9204f;
+  padding: 15px 32px 15px 32px; }
+
+.hovering h2 {
+  margin: 0px 0px 20px 0px;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: -0.04px;
+  font-family: "AvantGarde Bold", Sans-serif; }
+
+.texting p {
+  font-family: "Trade Gothic", Sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #747474; }
+
+.bgrImg {
+  background-image: url(photo/2.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 621px; }
+
+#preLast {
+  margin-top: 150px; }
+
+.preLast-text h2 {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 60px; }
+
+.first {
+  font-family: "Trade Gothic", Sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 17px;
+  color: #e9204f; }
+
+.second {
+  font-family: "Trade Gothic", Sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  color: #747474;
+  margin-top: 50px;
+  margin-bottom: 50px; }
+
+.named {
+  font-family: "Roboto Condensed", Sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 26px; }
+
+#last-nav {
+  padding: 0px 30px 140px 30px;
+  margin-top: 160px;
+  text-align: center; }
+  #last-nav .naviLast {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem; }
+
+/*# sourceMappingURL=style.css.map */
